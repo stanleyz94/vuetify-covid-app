@@ -5,6 +5,10 @@
 
 Simple COVID-19 App created with Vue & Vuetify, which fetches data from API and shows data in a graphs.
 
+## Preview
+
+[Link to preview](https://stanleyz94.github.io/vuetify-covid-app/)
+
 ![enter image description here](https://i.ibb.co/jf1FYLQ/image.png)
 
 
