@@ -1,4 +1,13 @@
-# vue-covid-app
+#  COVID-19 App created with Vue & Vuetify
+
+## About
+
+
+Simple COVID-19 App created with Vue & Vuetify, which fetches data from API and shows data in a graphs.
+
+![enter image description here](https://i.ibb.co/jf1FYLQ/image.png)
+
+
 
 ## Project setup
 ```
@@ -13,12 +22,3 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
